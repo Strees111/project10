@@ -1,0 +1,3 @@
+/home/stressed_lemon/CLionProjects/project10/cmake-build-debug/CMakeFiles/base32.dir
+/home/stressed_lemon/CLionProjects/project10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stressed_lemon/CLionProjects/project10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
